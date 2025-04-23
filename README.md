@@ -6,18 +6,18 @@ ranked by usage: most 🔥 👍 😑 👎 🗑️ least
 
 ## normal
 
-### `<C-i/o>` 🔥
-
-move positions in jump list
+- `<C-i/o>` 🔥: move positions in jump list
 
 ## visual
 
-### `o` 👍
-
-move to start or end of visual selection
+- `o` 👍: move to start or end of visual selection
 
 ## commands
 
-### `:'<,'>norm {motion}` 👎
+- `:'<,'>norm {motion}` 👎: executes `{motion}` on given visually selected lines
 
-executes `{motion}` on given visually selected lines
+## plugin specific
+
+### telescope
+
+- `<C-t/v/x>` 👍: go to a file in a new tab, vsplit, or split
