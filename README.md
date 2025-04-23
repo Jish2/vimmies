@@ -18,6 +18,6 @@ move to start or end of visual selection
 
 ## commands
 
-### `:'<,'>norm {motion}`
+### `:'<,'>norm {motion}` 👎
 
 executes `{motion}` on given visually selected lines
