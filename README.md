@@ -1,3 +1,7 @@
+---
+title: vimmies
+---
+
 # vimmies
 
 my favorite vim motions that i'll never remember
