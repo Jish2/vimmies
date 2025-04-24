@@ -6,6 +6,7 @@ ranked by usage: most 🔥 👍 😑 👎 🗑️ least, new entries added to th
 
 ## normal
 
+- 👍 ````: go to position before last jump (undo last `f/F/t/T` motion)
 - 🔥 `<C-i/o>`: move positions in jump list
 
 ## visual
