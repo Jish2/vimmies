@@ -13,6 +13,10 @@ ranked by usage: most 🔥 👍 😑 👎 🗑️ least, new entries added to th
 
 - 👍 `o`: move to start or end of visual selection
 
+## insert
+
+- 👍 `<C-r><buffer>`: put buffer in insert mode. i mainly use with `"/+` buffer
+
 ## commands
 
 - 👎 `:'<,'>norm {motion}`: executes `{motion}` on given visually selected lines
